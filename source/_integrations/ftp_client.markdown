@@ -10,7 +10,7 @@ ha_domain: ftp_client
 ha_codeowners:
   - '@cyr-ius'
 ha_integration_type: service
-ha_quality_scale: platinum
+ha_quality_scale: gold
 related:
   - docs: /common-tasks/general/#backups
     title: Creating backups in Home Assistant
