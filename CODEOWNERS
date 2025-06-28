@@ -307,6 +307,7 @@ source/_integrations/fritzbox_callmonitor.markdown @cdce8p
 source/_integrations/fronius.markdown @farmio
 source/_integrations/frontend.markdown @home-assistant/frontend
 source/_integrations/frontier_silicon.markdown @wlcrs
+source/_integrations/ftp_client.markdown @cyr-ius
 source/_integrations/fujitsu_anywair.markdown @Bre77
 source/_integrations/fujitsu_fglair.markdown @crevetor
 source/_integrations/fully_kiosk.markdown @cgarwood
